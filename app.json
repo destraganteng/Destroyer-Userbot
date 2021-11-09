@@ -2,7 +2,7 @@
   "name": "Destroyer-Userbot",
   "description": "[Destroyer-Userbot] userbot Telegram modular yang berjalan pada Python 3.9+",
   "logo": "https://telegra.ph/file/9dc4e335feaaf6a214818.jpg",
-  "keywords": ["telegram", "userbot", "Destroyer-Userbot", "modular", "python"],
+  "keywords": ["telegram", "userbot", "man-userbot", "modular", "python"],
   "repository": "https://github.com/destraganteng/Destroyer-Userbot",
   "telegram": ["https://t.me/DessXtrash",],
   "success_url": "https://t.me/SobatAnime",
